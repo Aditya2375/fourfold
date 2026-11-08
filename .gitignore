@@ -1,5 +1,7 @@
 __pycache__/
 *.pyc
+*.pt
+*.log
+node_modules/
+benchmark-progress.json
 progress.json
-train.log
-PLAN.md
